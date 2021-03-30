@@ -19,3 +19,19 @@ sistema de anotación.
 transcripción).
 - Se permite buscar una ronda por su identificador. Por ejemplo, jugada 23 debe
 retornar exd5 Qd6.
+
+## Requisitos
+
+- Solo puede usar arreglos (estáticos y dinámicos) para el manejo de datos
+(estructura de datos).
+- En cualquier momento se puede imprimir la lista de jugadas.
+- En cualquier momento se puede corregir, adicionar o eliminar una ronda
+(requisitos 6 y 7).
+- En cualquier momento se pueden consultar las fichas capturadas (requisito 4),
+debe ordenar las fichas por el orden alfabético y color. Puede usar más de un
+arreglo.
+- En cualquier momento se pueden consultar las rondas guardadas (requisito 7).
+- No es necesario imprimir el tablero con dibujos, fichas, cuadros o elementos
+gráficos. Solo debe imprimir la lista de jugadas (anotaciones).
+- El ejemplo de la partida de Kasparov vs Topalov es meramente con fines de
+control y seguimiento y sobre ésta será evaluada la efectividad del programa.
