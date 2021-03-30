@@ -3,7 +3,7 @@
 Sistema de anotación de partidas de
 ajedrez.
 
-## Objetivos
+## Objetivos 😎
 
 - Inscribir a ambos jugadores, así como del color de las fichas con las que van a
 jugar.
@@ -20,7 +20,7 @@ transcripción).
 - Se permite buscar una ronda por su identificador. Por ejemplo, jugada 23 debe
 retornar exd5 Qd6.
 
-## Requisitos
+## Requisitos 😏
 
 - Solo puede usar arreglos (estáticos y dinámicos) para el manejo de datos
 (estructura de datos).
