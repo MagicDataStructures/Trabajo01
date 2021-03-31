@@ -4,8 +4,7 @@ Sistema de anotación de partidas de
 ajedrez.
 
 ## Instrucciones para el uso del Sistema en Python
-- Al iniciar el programa, te pedirá que ingreses el nombre de ambos jugadores.
-- Luego podrás inicar a anotar jugadas.
+- Al iniciar el programa, te pedirá que ingreses el nombre de ambos jugadores. Luego podrás anotar jugadas.
 - Si una notación no es válida, el programa te hará saber.
 - Al finalizar una anotación correcta, puedes ingresar * para acceder al menú de opciones.
 - Siempre podrás ver los comandos disponibles en las opciones.
