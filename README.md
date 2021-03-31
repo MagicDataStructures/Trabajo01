@@ -4,13 +4,13 @@ Sistema de anotación de partidas de
 ajedrez.
 
 ## Instrucciones para el uso del Sistema en Python
-Al iniciar el programa, te pedirá que ingreses el nombre de ambos jugadores.
-Luego podrás inicar a anotar jugadas.
-Si una notación no es válida, el programa te hará saber.
-Al finalizar una anotación correcta, puedes ingresar * para acceder al menú de opciones.
-Siempre podrás ver los comandos disponibles en las opciones.
-El Programa soporta la notación 1-0, 0-1, 0-0 para anotar el ganador o empate.
-Al finalizar el programa se verá el nombre de los jugadores y se despliegan todas las jugadas.
+-Al iniciar el programa, te pedirá que ingreses el nombre de ambos jugadores.
+-Luego podrás inicar a anotar jugadas.
+-Si una notación no es válida, el programa te hará saber.
+-Al finalizar una anotación correcta, puedes ingresar * para acceder al menú de opciones.
+-Siempre podrás ver los comandos disponibles en las opciones.
+-El Programa soporta la notación 1-0, 0-1, 0-0 para anotar el ganador o empate.
+-Al finalizar el programa se verá el nombre de los jugadores y se despliegan todas las jugadas.
 
 ## Objetivos 😎
 
